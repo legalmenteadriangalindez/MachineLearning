@@ -18,6 +18,6 @@ def sigmoid(z):
 
 # Salida
 a = sigmoid(z)
-
+  
 print("z =", z)
 print("Salida =", a)
